@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **CKA**
 - 👯 I’m looking to collaborate on **Devops/DevEx Tools**
 - 💬 Ask me about anything **DevOps**
-- 📫 How to reach me:  [Twitter](https://twitter.com/ishuah_) | [LinkedIn](https://www.linkedin.com/in/xavierwere/)
+- 📫 How to reach me:  [Twitter](https://twitter.com/Xavierwere) | [LinkedIn](https://www.linkedin.com/in/xavierwere/)
 - 😄 Pronouns: He/Him
 <!-- ⚡ Fun fact: -->
 <!-- 🤔 I’m looking for help with ... -->
