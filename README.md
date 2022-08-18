@@ -1,3 +1,23 @@
+<p align="center">
+  <a href="https://github.com/masterxavierfox">
+    <img 
+        align="center" 
+        src="https://github-readme-stats.dev01d.vercel.app/api/top-langs/?username=masterxavierfox&layout=compact&langs_count=9&hide=jinja,html,css,scss,swift,ruby&theme=tokyonight"
+    />
+    <img 
+        align="center" 
+        src="https://github-readme-stats.dev01d.vercel.app/api?username=masterxavierfox&show_icons=true&count_private=true&hide=stars&theme=tokyonight"
+    />
+  </a>
+</p>
+<ul>
+  <!-- <li><a href="#" title="DimensionQuest - Burke's Blog">My Blog</a></li> -->
+</ul>
+<!--
+**masterxavierfox/masterxavierfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 ### Hi there I'm Fox. 👋
 
 - 🔭 I’m currently working on [**K8 Pod Killer**](https://github.com/masterxavierfox/kubernetes-pod-killer)
