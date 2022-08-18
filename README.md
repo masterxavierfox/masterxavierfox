@@ -2,7 +2,7 @@
   <a href="https://github.com/masterxavierfox">
     <img 
         align="center" 
-        src="https://github-readme-stats.dev01d.vercel.app/api/top-langs/?username=masterxavierfox&layout=compact&langs_count=9&hide=jinja,html,css,scss,swift,ruby&theme=tokyonight"
+        src="https://github-readme-stats.dev01d.vercel.app/api/top-langs/?username=masterxavierfox&layout=compact&langs_count=9&hide=swift&theme=tokyonight"
     />
     <img 
         align="center" 
